@@ -1,2 +1,2 @@
 # exercises
-assignments
+assignments for school
