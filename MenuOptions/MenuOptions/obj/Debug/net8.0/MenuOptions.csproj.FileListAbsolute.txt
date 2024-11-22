@@ -1,0 +1,14 @@
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\bin\Debug\net8.0\MenuOptions.exe
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\bin\Debug\net8.0\MenuOptions.deps.json
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\bin\Debug\net8.0\MenuOptions.runtimeconfig.json
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\bin\Debug\net8.0\MenuOptions.dll
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\bin\Debug\net8.0\MenuOptions.pdb
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\obj\Debug\net8.0\MenuOptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\obj\Debug\net8.0\MenuOptions.AssemblyInfoInputs.cache
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\obj\Debug\net8.0\MenuOptions.AssemblyInfo.cs
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\obj\Debug\net8.0\MenuOptions.csproj.CoreCompileInputs.cache
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\obj\Debug\net8.0\MenuOptions.dll
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\obj\Debug\net8.0\refint\MenuOptions.dll
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\obj\Debug\net8.0\MenuOptions.pdb
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\obj\Debug\net8.0\MenuOptions.genruntimeconfig.cache
+C:\Users\janeh\source\repos\MenuOptions\MenuOptions\obj\Debug\net8.0\ref\MenuOptions.dll
