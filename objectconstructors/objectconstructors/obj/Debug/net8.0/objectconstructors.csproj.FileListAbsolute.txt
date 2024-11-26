@@ -1,0 +1,14 @@
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\obj\Debug\net8.0\objectconstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\obj\Debug\net8.0\objectconstructors.AssemblyInfoInputs.cache
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\obj\Debug\net8.0\objectconstructors.AssemblyInfo.cs
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\obj\Debug\net8.0\objectconstructors.csproj.CoreCompileInputs.cache
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\bin\Debug\net8.0\objectconstructors.exe
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\bin\Debug\net8.0\objectconstructors.deps.json
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\bin\Debug\net8.0\objectconstructors.runtimeconfig.json
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\bin\Debug\net8.0\objectconstructors.dll
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\bin\Debug\net8.0\objectconstructors.pdb
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\obj\Debug\net8.0\objectconstructors.dll
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\obj\Debug\net8.0\refint\objectconstructors.dll
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\obj\Debug\net8.0\objectconstructors.pdb
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\obj\Debug\net8.0\objectconstructors.genruntimeconfig.cache
+C:\Users\janeh\source\repos\objectconstructors\objectconstructors\obj\Debug\net8.0\ref\objectconstructors.dll
