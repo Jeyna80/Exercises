@@ -1,0 +1,5 @@
+Metallica|2025-02-02|Hultsfred Stage 1|199|200
+Manowar|2025-03-03|Hulsfred Stage 2|100|100
+TypeONegative|2025-04-04|Hultsfred Stage 1|200|200
+Disturbed|2025-05-05|Hultsfred Stage 2|100|100
+WASP|2025-06-06|Hultsfred Stage 1|200|200

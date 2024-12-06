@@ -1,0 +1,14 @@
+C:\Users\janeh\source\repos\rockconcert\rockconcert\bin\Debug\net8.0\rockconcert.exe
+C:\Users\janeh\source\repos\rockconcert\rockconcert\bin\Debug\net8.0\rockconcert.deps.json
+C:\Users\janeh\source\repos\rockconcert\rockconcert\bin\Debug\net8.0\rockconcert.runtimeconfig.json
+C:\Users\janeh\source\repos\rockconcert\rockconcert\bin\Debug\net8.0\rockconcert.dll
+C:\Users\janeh\source\repos\rockconcert\rockconcert\bin\Debug\net8.0\rockconcert.pdb
+C:\Users\janeh\source\repos\rockconcert\rockconcert\obj\Debug\net8.0\rockconcert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janeh\source\repos\rockconcert\rockconcert\obj\Debug\net8.0\rockconcert.AssemblyInfoInputs.cache
+C:\Users\janeh\source\repos\rockconcert\rockconcert\obj\Debug\net8.0\rockconcert.AssemblyInfo.cs
+C:\Users\janeh\source\repos\rockconcert\rockconcert\obj\Debug\net8.0\rockconcert.csproj.CoreCompileInputs.cache
+C:\Users\janeh\source\repos\rockconcert\rockconcert\obj\Debug\net8.0\rockconcert.dll
+C:\Users\janeh\source\repos\rockconcert\rockconcert\obj\Debug\net8.0\refint\rockconcert.dll
+C:\Users\janeh\source\repos\rockconcert\rockconcert\obj\Debug\net8.0\rockconcert.pdb
+C:\Users\janeh\source\repos\rockconcert\rockconcert\obj\Debug\net8.0\rockconcert.genruntimeconfig.cache
+C:\Users\janeh\source\repos\rockconcert\rockconcert\obj\Debug\net8.0\ref\rockconcert.dll
